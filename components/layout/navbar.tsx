@@ -27,7 +27,9 @@ export default function NavBar() {
               height="30"
               className="mr-2 rounded-sm"
             ></Image>
-            <p>AlphaChain</p>
+            <p>
+              <strong>Alpha</strong>Chain
+            </p>
           </Link>
           <SignedOut>
             <SignInButton mode="modal">
