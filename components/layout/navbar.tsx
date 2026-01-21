@@ -23,11 +23,11 @@ export default function NavBar() {
             <Image
               src="/clerk.svg"
               alt="Precedent logo"
-              width="30"
-              height="30"
-              className="mr-2 rounded-sm"
+              width="60"
+              height="40"
+              className="rounded-sm"
             ></Image>
-            <p>
+            <p className="mt-2">
               <strong>Alpha</strong>Chain
             </p>
           </Link>
